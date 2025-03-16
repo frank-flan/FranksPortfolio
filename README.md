@@ -1,2 +1,0 @@
-# FranksPortfolio
-Web Development Project
